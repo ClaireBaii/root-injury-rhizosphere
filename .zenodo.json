@@ -1,0 +1,28 @@
+{
+    "title": "root-injury-rhizosphere: Code for Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly",
+    "upload_type": "software",
+    "access_right": "open",
+    "license": "mit",
+    "creators": [
+        {
+            "name": "Bai, Claire",
+            "orcid": "0000-0000-0000-0000",
+            "affiliation": "Beijing University of Posts and Telecommunications"
+        }
+    ],
+    "keywords": [
+        "root exudates",
+        "rhizosphere",
+        "microbiome",
+        "Populus",
+        "LC-MS",
+        "16S rRNA"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/ClaireBaii/root-injury-rhizosphere",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ]
+}
