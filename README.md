@@ -1,6 +1,8 @@
 # Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly
 
-This repository contains code related to the paper:
+This repository contains the source code and datasets for the paper:
+
+本项目包含了以下论文的相关代码和数据：
 
 **Title:** Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly
 
