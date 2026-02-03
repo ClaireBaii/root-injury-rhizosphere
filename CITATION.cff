@@ -4,6 +4,9 @@ authors:
   - family-names: "Cai"
     given-names: "Jinxiu"
     affiliation: "Anhui University of Science and Technology"
+  - family-names: "Zhu"
+    given-names: "Ziyang"
+    affiliation: "Beijing University of Posts and Telecommunications"
 title: "root-injury-rhizosphere: Code for Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly"
 version: 1.0.0
 date-released: 2026-02-03
