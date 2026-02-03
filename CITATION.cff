@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Cai"
+    given-names: "Jinxiu"
+    affiliation: "Anhui University of Science and Technology"
+title: "root-injury-rhizosphere: Code for Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly"
+version: 1.0.0
+date-released: 2026-02-03
+url: "https://github.com/ClaireBaii/root-injury-rhizosphere"
+license: MIT
