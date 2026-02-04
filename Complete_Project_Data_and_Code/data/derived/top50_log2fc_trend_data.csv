@@ -1,0 +1,201 @@
+Treatment,Compound,log2FC
+Processing_1,Pyrrolines,8.618989100552456
+Processing_2,Pyrrolines,-1.3888696674181658
+Processing_3,Pyrrolines,0.5882755593958113
+Processing_4,Pyrrolines,0.20530036382513628
+Processing_1,Aspidofractine alkaloids,-1.7390356554251283
+Processing_2,Aspidofractine alkaloids,-6.768415673346864
+Processing_3,Aspidofractine alkaloids,-1.8406605369188
+Processing_4,Aspidofractine alkaloids,-2.236386649793344
+Processing_1,Isobenzofurans,-5.654748268117391
+Processing_2,Isobenzofurans,-2.8134033631780473
+Processing_3,Isobenzofurans,-5.407002264030179
+Processing_4,Isobenzofurans,-6.399496512885538
+Processing_1,Benzoxepines,-4.987301114125912
+Processing_2,Benzoxepines,-6.346716388298283
+Processing_3,Benzoxepines,-4.059333824873803
+Processing_4,Benzoxepines,-5.417066951464611
+Processing_1,Indolonaphthyridine alkaloids,-3.905015942536513
+Processing_2,Indolonaphthyridine alkaloids,-3.6586664916182148
+Processing_3,Indolonaphthyridine alkaloids,-3.396540119964319
+Processing_4,Indolonaphthyridine alkaloids,-5.175990692817568
+Processing_1,Strychnos alkaloids,4.889384627809091
+Processing_2,Strychnos alkaloids,3.731225593138821
+Processing_3,Strychnos alkaloids,3.068352578069537
+Processing_4,Strychnos alkaloids,3.627560120178729
+Processing_1,Organochlorides,-4.7631521706274675
+Processing_2,Organochlorides,0.04373631660785863
+Processing_3,Organochlorides,0.3527539394329221
+Processing_4,Organochlorides,0.12604184561877713
+Processing_1,Furans,-4.4204819271475895
+Processing_2,Furans,-4.581065310906709
+Processing_3,Furans,-4.5441170129478134
+Processing_4,Furans,-4.571600963336038
+Processing_1,Azetidines,4.254785189398297
+Processing_2,Azetidines,0.4009403740783808
+Processing_3,Azetidines,0.7492021362485974
+Processing_4,Azetidines,0.10521925451345807
+Processing_1,2-arylbenzofuran flavonoids,-3.9357538707753204
+Processing_2,2-arylbenzofuran flavonoids,-3.9750084990256007
+Processing_3,2-arylbenzofuran flavonoids,-2.6146112544307836
+Processing_4,2-arylbenzofuran flavonoids,-3.3214741091479554
+Processing_1,Acyl halides,-3.8753162274234128
+Processing_2,Acyl halides,-0.026511337647115548
+Processing_3,Acyl halides,-0.6026159165176774
+Processing_4,Acyl halides,1.6122642667217448
+Processing_1,Ergoline and derivatives,-2.3772568280557334
+Processing_2,Ergoline and derivatives,-3.5982403997964822
+Processing_3,Ergoline and derivatives,-2.5057451606427934
+Processing_4,Ergoline and derivatives,-3.0765664302246143
+Processing_1,Azaphilones,0.6198297635099304
+Processing_2,Azaphilones,-0.6130937947409405
+Processing_3,Azaphilones,3.4711298584822345
+Processing_4,Azaphilones,0.010640955359090227
+Processing_1,Fluorenes,-2.155917754064356
+Processing_2,Fluorenes,-2.1113275782695444
+Processing_3,Fluorenes,-3.267919301190871
+Processing_4,Fluorenes,-2.0868895853807126
+Processing_1,Furopyrans,-2.139088720052941
+Processing_2,Furopyrans,-2.2224925591430815
+Processing_3,Furopyrans,-3.249146133666146
+Processing_4,Furopyrans,0.5440831211098895
+Processing_1,Pyrimidine nucleosides,-2.06688833112465
+Processing_2,Pyrimidine nucleosides,-2.300009414439754
+Processing_3,Pyrimidine nucleosides,-2.3120145547822615
+Processing_4,Pyrimidine nucleosides,-3.245476476886257
+Processing_1,Coumarins and derivatives,-3.114505320597872
+Processing_2,Coumarins and derivatives,-3.036409323917162
+Processing_3,Coumarins and derivatives,-3.059413214843403
+Processing_4,Coumarins and derivatives,-3.068135877725402
+Processing_1,Azoles,-1.9847513548311624
+Processing_2,Azoles,-3.051558399157114
+Processing_3,Azoles,-2.042697777167781
+Processing_4,Azoles,-2.078853553920587
+Processing_1,Lactams,-1.7191751093378083
+Processing_2,Lactams,0.3818525798452951
+Processing_3,Lactams,-3.0156502104110263
+Processing_4,Lactams,0.3062512016570386
+Processing_1,Thiosulfinic acid esters,-2.810827284371399
+Processing_2,Thiosulfinic acid esters,-2.9316483494784205
+Processing_3,Thiosulfinic acid esters,-2.3396204818083075
+Processing_4,Thiosulfinic acid esters,-2.441227018348604
+Processing_1,5'-deoxyribonucleosides,-2.3229949876476432
+Processing_2,5'-deoxyribonucleosides,-2.555438251472514
+Processing_3,5'-deoxyribonucleosides,-2.4552333306417173
+Processing_4,5'-deoxyribonucleosides,-2.894410462557149
+Processing_1,Isoflavonoids,-2.507120938551528
+Processing_2,Isoflavonoids,-2.884667790999171
+Processing_3,Isoflavonoids,-2.4637660076613224
+Processing_4,Isoflavonoids,-0.5564398836403867
+Processing_1,Macrolide lactams,1.5277494476781213
+Processing_2,Macrolide lactams,2.758836816665392
+Processing_3,Macrolide lactams,2.722730566547459
+Processing_4,Macrolide lactams,1.386174247919985
+Processing_1,Benzodioxoles,-0.7110694167237024
+Processing_2,Benzodioxoles,-2.3262148055534873
+Processing_3,Benzodioxoles,-2.7242656806065275
+Processing_4,Benzodioxoles,-1.4665599082946297
+Processing_1,Aspidospermatan-type alkaloids,-2.713603938990585
+Processing_2,Aspidospermatan-type alkaloids,-0.04565270133300394
+Processing_3,Aspidospermatan-type alkaloids,-0.3825773180996964
+Processing_4,Aspidospermatan-type alkaloids,-0.37014593666360257
+Processing_1,Macrolactams,2.692302086445056
+Processing_2,Macrolactams,1.7629452396925345
+Processing_3,Macrolactams,1.4472433003571132
+Processing_4,Macrolactams,1.3459117544452464
+Processing_1,Tannins,0.8493407176125892
+Processing_2,Tannins,-0.03877545282065982
+Processing_3,Tannins,0.36156987577657207
+Processing_4,Tannins,-2.6736394078812955
+Processing_1,Anthracenes,-1.0966139698811386
+Processing_2,Anthracenes,2.658224014341522
+Processing_3,Anthracenes,-1.1737703560985164
+Processing_4,Anthracenes,-1.5464559484154017
+Processing_1,Purine nucleosides,-1.5328384172173952
+Processing_2,Purine nucleosides,-2.029850461687801
+Processing_3,Purine nucleosides,-1.6360738704463966
+Processing_4,Purine nucleosides,-2.641940233852276
+Processing_1,Angucyclines,-1.7302558249936975
+Processing_2,Angucyclines,-2.453427038162612
+Processing_3,Angucyclines,-1.6186077684334474
+Processing_4,Angucyclines,-1.3501086866336574
+Processing_1,"Saxitoxins, gonyautoxins, and derivatives",0.9501082191401127
+Processing_2,"Saxitoxins, gonyautoxins, and derivatives",0.6234439425158556
+Processing_3,"Saxitoxins, gonyautoxins, and derivatives",0.7904045996237962
+Processing_4,"Saxitoxins, gonyautoxins, and derivatives",-2.4427771830968688
+Processing_1,Aporphines,-2.4027804407211644
+Processing_2,Aporphines,-1.94686465380354
+Processing_3,Aporphines,-0.7680087329459944
+Processing_4,Aporphines,-1.4411921610498577
+Processing_1,Organic sulfuric acids and derivatives,-2.093585455987449
+Processing_2,Organic sulfuric acids and derivatives,-2.0905477081335966
+Processing_3,Organic sulfuric acids and derivatives,-2.3668918492069904
+Processing_4,Organic sulfuric acids and derivatives,-1.255023496040884
+Processing_1,Thiazinanes,-2.310544928581684
+Processing_2,Thiazinanes,-0.9869936856444679
+Processing_3,Thiazinanes,-1.8053857852028883
+Processing_4,Thiazinanes,-0.35931683140689114
+Processing_1,Furofurans,0.011603453335391813
+Processing_2,Furofurans,-1.6232316127083684
+Processing_3,Furofurans,-0.5086041611420439
+Processing_4,Furofurans,-2.2588284335408826
+Processing_1,Daphniphylline-type alkaloids,-2.245802664666396
+Processing_2,Daphniphylline-type alkaloids,-0.3205709048529859
+Processing_3,Daphniphylline-type alkaloids,-1.0185579630348396
+Processing_4,Daphniphylline-type alkaloids,-0.3320024154744204
+Processing_1,Diarylheptanoids,0.14056367762209085
+Processing_2,Diarylheptanoids,2.208762566710376
+Processing_3,Diarylheptanoids,-0.15774435755005
+Processing_4,Diarylheptanoids,-0.4010420187200984
+Processing_1,Lactones,-0.9728612854363977
+Processing_2,Lactones,-2.196178860648279
+Processing_3,Lactones,-0.4230110950593535
+Processing_4,Lactones,-1.9542838111509666
+Processing_1,Neoflavonoids,-1.672938718494028
+Processing_2,Neoflavonoids,-2.1609983750981696
+Processing_3,Neoflavonoids,-0.423152219541701
+Processing_4,Neoflavonoids,-0.9592822254356894
+Processing_1,Pyridopyrimidines,-1.7861027250843335
+Processing_2,Pyridopyrimidines,-1.2400629338205915
+Processing_3,Pyridopyrimidines,-1.539527512180696
+Processing_4,Pyridopyrimidines,-2.028632403811701
+Processing_1,Dihydroisoquinolines,1.986846415425149
+Processing_2,Dihydroisoquinolines,1.195827053595401
+Processing_3,Dihydroisoquinolines,0.6017283679260372
+Processing_4,Dihydroisoquinolines,0.11170736456655653
+Processing_1,Diazines,-1.5000817290121515
+Processing_2,Diazines,-1.7680342030956524
+Processing_3,Diazines,-1.2988587507234817
+Processing_4,Diazines,-1.8812469682950939
+Processing_1,Imidazopyrimidines,-1.3458487312620488
+Processing_2,Imidazopyrimidines,-0.8297187268693667
+Processing_3,Imidazopyrimidines,-1.2149602161196276
+Processing_4,Imidazopyrimidines,-1.723328959924725
+Processing_1,Isocoumarans,-0.6984793317662299
+Processing_2,Isocoumarans,-0.9177095954649235
+Processing_3,Isocoumarans,-1.5999843596986285
+Processing_4,Isocoumarans,-1.4294559784938967
+Processing_1,Imidazodiazepines,-1.5822567498600106
+Processing_2,Imidazodiazepines,-1.3333804248588872
+Processing_3,Imidazodiazepines,-0.5726629147606508
+Processing_4,Imidazodiazepines,-1.2210214408465332
+Processing_1,Oxanes,-1.0343564645504344
+Processing_2,Oxanes,-1.5486848443394519
+Processing_3,Oxanes,-1.0222713003215333
+Processing_4,Oxanes,-1.1659627940073816
+Processing_1,Aryltetralin lignans,0.2101442561539091
+Processing_2,Aryltetralin lignans,0.07805616407539363
+Processing_3,Aryltetralin lignans,0.5513852875899474
+Processing_4,Aryltetralin lignans,1.5134746621346193
+Processing_1,Heteroaromatic compounds,-0.8611588469966
+Processing_2,Heteroaromatic compounds,-1.4988134964166382
+Processing_3,Heteroaromatic compounds,-0.7856960368701268
+Processing_4,Heteroaromatic compounds,-1.0247865248361596
+Processing_1,Phenanthrenes and derivatives,0.4813289465165683
+Processing_2,Phenanthrenes and derivatives,1.4910912529031186
+Processing_3,Phenanthrenes and derivatives,1.1641942008562038
+Processing_4,Phenanthrenes and derivatives,1.151467359728584
+Processing_1,Naphthacenes,-0.2609235941805849
+Processing_2,Naphthacenes,-1.4217628565996316
+Processing_3,Naphthacenes,-1.0007254619393142
+Processing_4,Naphthacenes,-0.5630181947005632

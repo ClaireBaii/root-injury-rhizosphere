@@ -1,0 +1,270 @@
+,from,to,rho
+0,Dihydroisoquinolines,Abditibacteriota,-0.8999999999999998
+1,Dihydroisoquinolines,Acidobacteriota,0.9999999999999999
+2,Dihydroisoquinolines,Actinobacteriota,-0.9999999999999999
+3,Dihydroisoquinolines,Bdellovibrionota,-0.8999999999999998
+4,Dihydroisoquinolines,Desulfobacterota,0.8999999999999998
+5,Dihydroisoquinolines,Elusimicrobiota,0.8999999999999998
+6,Dihydroisoquinolines,GAL15,0.8999999999999998
+7,Dihydroisoquinolines,Latescibacterota,0.8999999999999998
+8,Dihydroisoquinolines,MBNT15,0.8999999999999998
+9,Dihydroisoquinolines,Methylomirabilota,0.9999999999999999
+10,Dihydroisoquinolines,NB1-j,0.9999999999999999
+11,Dihydroisoquinolines,Patescibacteria,0.8999999999999998
+12,Dihydroisoquinolines,RCP2-54,0.7999999999999999
+13,Macrolactams,Abditibacteriota,-0.8999999999999998
+14,Macrolactams,Acidobacteriota,0.9999999999999999
+15,Macrolactams,Actinobacteriota,-0.9999999999999999
+16,Macrolactams,Bdellovibrionota,-0.8999999999999998
+17,Macrolactams,Desulfobacterota,0.8999999999999998
+18,Macrolactams,Elusimicrobiota,0.8999999999999998
+19,Macrolactams,GAL15,0.8999999999999998
+20,Macrolactams,Latescibacterota,0.8999999999999998
+21,Macrolactams,MBNT15,0.8999999999999998
+22,Macrolactams,Methylomirabilota,0.9999999999999999
+23,Macrolactams,NB1-j,0.9999999999999999
+24,Macrolactams,Patescibacteria,0.8999999999999998
+25,Macrolactams,RCP2-54,0.7999999999999999
+26,Acyl halides,Abditibacteriota,0.8999999999999998
+27,Acyl halides,Acidobacteriota,-0.7999999999999999
+28,Acyl halides,Actinobacteriota,0.7999999999999999
+29,Acyl halides,Deinococcota,0.8999999999999998
+30,Acyl halides,Desulfobacterota,-0.8999999999999998
+31,Acyl halides,Elusimicrobiota,-0.8999999999999998
+32,Acyl halides,Latescibacterota,-0.8999999999999998
+33,Acyl halides,MBNT15,-0.8999999999999998
+34,Acyl halides,Methylomirabilota,-0.7999999999999999
+35,Acyl halides,NB1-j,-0.7999999999999999
+36,Acyl halides,RCP2-54,-0.9999999999999999
+37,Pyrimidine nucleosides,Cyanobacteria,-0.8999999999999998
+38,Pyrimidine nucleosides,Dadabacteria,-0.8999999999999998
+39,Pyrimidine nucleosides,Gemmatimonadota,-0.9999999999999999
+40,Pyrimidine nucleosides,Verrucomicrobiota,0.9999999999999999
+41,Pyrimidine nucleosides,WS2,-0.7999999999999999
+42,Isocoumarans,Cyanobacteria,-0.7999999999999999
+43,Isocoumarans,Dadabacteria,-0.7999999999999999
+44,Isocoumarans,Gemmatimonadota,-0.8999999999999998
+45,Isocoumarans,Verrucomicrobiota,0.8999999999999998
+46,Isocoumarans,WS2,-0.8999999999999998
+47,Aryltetralin lignans,Dadabacteria,0.9999999999999999
+48,Aryltetralin lignans,Gemmatimonadota,0.8999999999999998
+49,Aryltetralin lignans,Verrucomicrobiota,-0.8999999999999998
+50,5'-deoxyribonucleosides,Cyanobacteria,-0.7999999999999999
+51,5'-deoxyribonucleosides,Gemmatimonadota,-0.8999999999999998
+52,5'-deoxyribonucleosides,Verrucomicrobiota,0.8999999999999998
+53,Tannins,Deinococcota,-0.7999999999999999
+54,Tannins,RCP2-54,0.8999999999999998
+55,Azetidines,Abditibacteriota,-0.9999999999999999
+56,Azetidines,Acidobacteriota,0.8999999999999998
+57,Azetidines,Actinobacteriota,-0.8999999999999998
+58,Azetidines,Chloroflexi,0.8999999999999998
+59,Azetidines,Deinococcota,-0.7999999999999999
+60,Azetidines,Desulfobacterota,0.7999999999999999
+61,Azetidines,Elusimicrobiota,0.7999999999999999
+62,Azetidines,Entotheonellaeota,0.8999999999999998
+63,Azetidines,Latescibacterota,0.7999999999999999
+64,Azetidines,MBNT15,0.7999999999999999
+65,Azetidines,Methylomirabilota,0.8999999999999998
+66,Azetidines,NB1-j,0.8999999999999998
+67,Azetidines,RCP2-54,0.8999999999999998
+68,"Saxitoxins, gonyautoxins, and derivatives",Abditibacteriota,-0.8999999999999998
+69,"Saxitoxins, gonyautoxins, and derivatives",Acidobacteriota,0.7999999999999999
+70,"Saxitoxins, gonyautoxins, and derivatives",Actinobacteriota,-0.7999999999999999
+71,"Saxitoxins, gonyautoxins, and derivatives",Deinococcota,-0.8999999999999998
+72,"Saxitoxins, gonyautoxins, and derivatives",Desulfobacterota,0.8999999999999998
+73,"Saxitoxins, gonyautoxins, and derivatives",Elusimicrobiota,0.8999999999999998
+74,"Saxitoxins, gonyautoxins, and derivatives",Latescibacterota,0.8999999999999998
+75,"Saxitoxins, gonyautoxins, and derivatives",MBNT15,0.8999999999999998
+76,"Saxitoxins, gonyautoxins, and derivatives",Methylomirabilota,0.7999999999999999
+77,"Saxitoxins, gonyautoxins, and derivatives",NB1-j,0.7999999999999999
+78,"Saxitoxins, gonyautoxins, and derivatives",RCP2-54,0.9999999999999999
+79,Organochlorides,Cyanobacteria,0.8999999999999998
+80,Organochlorides,Dependentiae,-0.7999999999999999
+81,Organochlorides,Gemmatimonadota,0.7999999999999999
+82,Organochlorides,Verrucomicrobiota,-0.7999999999999999
+83,Organochlorides,WS2,0.9999999999999999
+84,Isoflavonoids,Acidobacteriota,-0.8999999999999998
+85,Isoflavonoids,Actinobacteriota,0.8999999999999998
+86,Isoflavonoids,Bdellovibrionota,0.9999999999999999
+87,Isoflavonoids,Desulfobacterota,-0.7999999999999999
+88,Isoflavonoids,Elusimicrobiota,-0.7999999999999999
+89,Isoflavonoids,GAL15,-0.9999999999999999
+90,Isoflavonoids,Latescibacterota,-0.7999999999999999
+91,Isoflavonoids,MBNT15,-0.7999999999999999
+92,Isoflavonoids,Methylomirabilota,-0.8999999999999998
+93,Isoflavonoids,NB1-j,-0.8999999999999998
+94,Isoflavonoids,Nitrospirota,-0.7999999999999999
+95,Isoflavonoids,Patescibacteria,-0.9999999999999999
+96,Thiosulfinic acid esters,Acidobacteriota,-0.7999999999999999
+97,Thiosulfinic acid esters,Actinobacteriota,0.7999999999999999
+98,Thiosulfinic acid esters,Bdellovibrionota,0.8999999999999998
+99,Thiosulfinic acid esters,GAL15,-0.8999999999999998
+100,Thiosulfinic acid esters,Methylomirabilota,-0.7999999999999999
+101,Thiosulfinic acid esters,NB1-j,-0.7999999999999999
+102,Thiosulfinic acid esters,Patescibacteria,-0.8999999999999998
+103,Thiosulfinic acid esters,Planctomycetota,-0.7999999999999999
+104,Thiosulfinic acid esters,Proteobacteria,0.7999999999999999
+105,Purine nucleosides,Cyanobacteria,-0.7999999999999999
+106,Purine nucleosides,Gemmatimonadota,-0.8999999999999998
+107,Purine nucleosides,Verrucomicrobiota,0.8999999999999998
+108,Thiazinanes,Abditibacteriota,0.9999999999999999
+109,Thiazinanes,Acidobacteriota,-0.8999999999999998
+110,Thiazinanes,Actinobacteriota,0.8999999999999998
+111,Thiazinanes,Chloroflexi,-0.8999999999999998
+112,Thiazinanes,Deinococcota,0.7999999999999999
+113,Thiazinanes,Desulfobacterota,-0.7999999999999999
+114,Thiazinanes,Elusimicrobiota,-0.7999999999999999
+115,Thiazinanes,Entotheonellaeota,-0.8999999999999998
+116,Thiazinanes,Latescibacterota,-0.7999999999999999
+117,Thiazinanes,MBNT15,-0.7999999999999999
+118,Thiazinanes,Methylomirabilota,-0.8999999999999998
+119,Thiazinanes,NB1-j,-0.8999999999999998
+120,Thiazinanes,RCP2-54,-0.8999999999999998
+121,Strychnos alkaloids,Acidobacteriota,0.8999999999999998
+122,Strychnos alkaloids,Actinobacteriota,-0.8999999999999998
+123,Strychnos alkaloids,Bacteroidota,-0.8999999999999998
+124,Strychnos alkaloids,Bdellovibrionota,-0.7999999999999999
+125,Strychnos alkaloids,Fibrobacterota,0.8999999999999998
+126,Strychnos alkaloids,GAL15,0.7999999999999999
+127,Strychnos alkaloids,Hydrogenedentes,-0.8207826816681233
+128,Strychnos alkaloids,Methylomirabilota,0.8999999999999998
+129,Strychnos alkaloids,NB1-j,0.8999999999999998
+130,Strychnos alkaloids,Patescibacteria,0.7999999999999999
+131,Strychnos alkaloids,Planctomycetota,0.8999999999999998
+132,Strychnos alkaloids,Proteobacteria,-0.8999999999999998
+133,Aporphines,Acidobacteriota,-0.8999999999999998
+134,Aporphines,Actinobacteriota,0.8999999999999998
+135,Aporphines,Bacteroidota,0.8999999999999998
+136,Aporphines,Bdellovibrionota,0.7999999999999999
+137,Aporphines,Fibrobacterota,-0.8999999999999998
+138,Aporphines,GAL15,-0.7999999999999999
+139,Aporphines,Hydrogenedentes,0.8207826816681233
+140,Aporphines,Methylomirabilota,-0.8999999999999998
+141,Aporphines,NB1-j,-0.8999999999999998
+142,Aporphines,Patescibacteria,-0.7999999999999999
+143,Aporphines,Planctomycetota,-0.8999999999999998
+144,Aporphines,Proteobacteria,0.8999999999999998
+145,Furans,Armatimonadota,0.8999999999999998
+146,Daphniphylline-type alkaloids,Abditibacteriota,0.8999999999999998
+147,Daphniphylline-type alkaloids,Chloroflexi,-0.9999999999999999
+148,Daphniphylline-type alkaloids,Entotheonellaeota,-0.9999999999999999
+149,Daphniphylline-type alkaloids,SAR324_clade(Marine_group_B),-0.8999999999999998
+150,Furofurans,Cyanobacteria,-0.8999999999999998
+151,Furofurans,Gemmatimonadota,-0.7999999999999999
+152,Furofurans,Verrucomicrobiota,0.7999999999999999
+153,Aspidospermatan-type alkaloids,Abditibacteriota,0.8999999999999998
+154,Aspidospermatan-type alkaloids,Chloroflexi,-0.9999999999999999
+155,Aspidospermatan-type alkaloids,Entotheonellaeota,-0.9999999999999999
+156,Aspidospermatan-type alkaloids,SAR324_clade(Marine_group_B),-0.8999999999999998
+157,Pyrrolines,Chloroflexi,0.8999999999999998
+158,Pyrrolines,Entotheonellaeota,0.8999999999999998
+159,Pyrrolines,SAR324_clade(Marine_group_B),0.7999999999999999
+160,Neoflavonoids,Acidobacteriota,-0.7999999999999999
+161,Neoflavonoids,Actinobacteriota,0.7999999999999999
+162,Neoflavonoids,Bdellovibrionota,0.8999999999999998
+163,Neoflavonoids,GAL15,-0.8999999999999998
+164,Neoflavonoids,Methylomirabilota,-0.7999999999999999
+165,Neoflavonoids,NB1-j,-0.7999999999999999
+166,Neoflavonoids,Patescibacteria,-0.8999999999999998
+167,Neoflavonoids,Planctomycetota,-0.7999999999999999
+168,Neoflavonoids,Proteobacteria,0.7999999999999999
+169,2-arylbenzofuran flavonoids,Acidobacteriota,-0.7999999999999999
+170,2-arylbenzofuran flavonoids,Actinobacteriota,0.7999999999999999
+171,2-arylbenzofuran flavonoids,Bdellovibrionota,0.8999999999999998
+172,2-arylbenzofuran flavonoids,GAL15,-0.8999999999999998
+173,2-arylbenzofuran flavonoids,Methylomirabilota,-0.7999999999999999
+174,2-arylbenzofuran flavonoids,NB1-j,-0.7999999999999999
+175,2-arylbenzofuran flavonoids,Patescibacteria,-0.8999999999999998
+176,2-arylbenzofuran flavonoids,Planctomycetota,-0.7999999999999999
+177,2-arylbenzofuran flavonoids,Proteobacteria,0.7999999999999999
+178,Organic sulfuric acids and derivatives,Abditibacteriota,0.8999999999999998
+179,Organic sulfuric acids and derivatives,Chloroflexi,-0.7999999999999999
+180,Organic sulfuric acids and derivatives,Deinococcota,0.8999999999999998
+181,Organic sulfuric acids and derivatives,Entotheonellaeota,-0.7999999999999999
+182,Organic sulfuric acids and derivatives,Myxococcota,0.7999999999999999
+183,Organic sulfuric acids and derivatives,RCP2-54,-0.7999999999999999
+184,Indolonaphthyridine alkaloids,Bacteroidota,0.8999999999999998
+185,Indolonaphthyridine alkaloids,Fibrobacterota,-0.8999999999999998
+186,Indolonaphthyridine alkaloids,Hydrogenedentes,0.9746794344808964
+187,Indolonaphthyridine alkaloids,SAR324_clade(Marine_group_B),-0.7999999999999999
+188,Indolonaphthyridine alkaloids,WPS-2,0.8999999999999998
+189,Furopyrans,Deinococcota,0.8999999999999998
+190,Furopyrans,Myxococcota,0.9999999999999999
+191,Furopyrans,Nitrospirota,-0.8999999999999998
+192,Furopyrans,Sumerlaeota,0.7999999999999999
+193,Imidazodiazepines,Acidobacteriota,-0.8999999999999998
+194,Imidazodiazepines,Actinobacteriota,0.8999999999999998
+195,Imidazodiazepines,Bacteroidota,0.8999999999999998
+196,Imidazodiazepines,Bdellovibrionota,0.7999999999999999
+197,Imidazodiazepines,Fibrobacterota,-0.8999999999999998
+198,Imidazodiazepines,GAL15,-0.7999999999999999
+199,Imidazodiazepines,Hydrogenedentes,0.8207826816681233
+200,Imidazodiazepines,Methylomirabilota,-0.8999999999999998
+201,Imidazodiazepines,NB1-j,-0.8999999999999998
+202,Imidazodiazepines,Patescibacteria,-0.7999999999999999
+203,Imidazodiazepines,Planctomycetota,-0.8999999999999998
+204,Imidazodiazepines,Proteobacteria,0.8999999999999998
+205,Angucyclines,Acidobacteriota,-0.8999999999999998
+206,Angucyclines,Actinobacteriota,0.8999999999999998
+207,Angucyclines,Bdellovibrionota,0.9999999999999999
+208,Angucyclines,Desulfobacterota,-0.7999999999999999
+209,Angucyclines,Elusimicrobiota,-0.7999999999999999
+210,Angucyclines,GAL15,-0.9999999999999999
+211,Angucyclines,Latescibacterota,-0.7999999999999999
+212,Angucyclines,MBNT15,-0.7999999999999999
+213,Angucyclines,Methylomirabilota,-0.8999999999999998
+214,Angucyclines,NB1-j,-0.8999999999999998
+215,Angucyclines,Nitrospirota,-0.7999999999999999
+216,Angucyclines,Patescibacteria,-0.9999999999999999
+217,Imidazopyrimidines,Bacteroidota,0.7999999999999999
+218,Imidazopyrimidines,Dadabacteria,-0.8999999999999998
+219,Imidazopyrimidines,Fibrobacterota,-0.7999999999999999
+220,Imidazopyrimidines,Hydrogenedentes,0.8720815992723809
+221,Imidazopyrimidines,SAR324_clade(Marine_group_B),-0.8999999999999998
+222,Phenanthrenes and derivatives,Armatimonadota,-0.9999999999999999
+223,Coumarins and derivatives,Bacteroidota,0.8999999999999998
+224,Coumarins and derivatives,Chloroflexi,-0.8999999999999998
+225,Coumarins and derivatives,Entotheonellaeota,-0.8999999999999998
+226,Coumarins and derivatives,Fibrobacterota,-0.8999999999999998
+227,Coumarins and derivatives,Hydrogenedentes,0.8720815992723809
+228,Coumarins and derivatives,SAR324_clade(Marine_group_B),-0.9999999999999999
+229,Diarylheptanoids,Dependentiae,0.8999999999999998
+230,Diarylheptanoids,Desulfobacterota,0.7999999999999999
+231,Diarylheptanoids,Elusimicrobiota,0.7999999999999999
+232,Diarylheptanoids,Firmicutes,0.9999999999999999
+233,Diarylheptanoids,Latescibacterota,0.7999999999999999
+234,Diarylheptanoids,MBNT15,0.7999999999999999
+235,Isobenzofurans,Bacteroidota,0.7999999999999999
+236,Isobenzofurans,Dadabacteria,-0.8999999999999998
+237,Isobenzofurans,Fibrobacterota,-0.7999999999999999
+238,Isobenzofurans,Hydrogenedentes,0.8720815992723809
+239,Isobenzofurans,SAR324_clade(Marine_group_B),-0.8999999999999998
+240,Pyridopyrimidines,Bacteroidota,0.7999999999999999
+241,Pyridopyrimidines,Dadabacteria,-0.8999999999999998
+242,Pyridopyrimidines,Fibrobacterota,-0.7999999999999999
+243,Pyridopyrimidines,Hydrogenedentes,0.8720815992723809
+244,Pyridopyrimidines,SAR324_clade(Marine_group_B),-0.8999999999999998
+245,Benzodioxoles,Armatimonadota,0.8999999999999998
+246,Benzodioxoles,WS2,-0.7999999999999999
+247,Anthracenes,Dadabacteria,-0.8999999999999998
+248,Anthracenes,Firmicutes,0.8999999999999998
+249,Diazines,Hydrogenedentes,0.8207826816681233
+250,Diazines,WPS-2,0.7999999999999999
+251,Ergoline and derivatives,Armatimonadota,0.8999999999999998
+252,Fluorenes,Abditibacteriota,0.8999999999999998
+253,Fluorenes,Chloroflexi,-0.7999999999999999
+254,Fluorenes,Deinococcota,0.8999999999999998
+255,Fluorenes,Entotheonellaeota,-0.7999999999999999
+256,Fluorenes,Myxococcota,0.7999999999999999
+257,Fluorenes,RCP2-54,-0.7999999999999999
+258,Azoles,Armatimonadota,0.8999999999999998
+259,Aspidofractine alkaloids,Armatimonadota,0.8999999999999998
+260,Azaphilones,Chloroflexi,0.7999999999999999
+261,Azaphilones,Entotheonellaeota,0.7999999999999999
+262,Naphthacenes,Armatimonadota,0.9999999999999999
+263,Macrolide lactams,Armatimonadota,-0.8999999999999998
+264,Macrolide lactams,Bdellovibrionota,-0.8999999999999998
+265,Macrolide lactams,GAL15,0.8999999999999998
+266,Macrolide lactams,Myxococcota,-0.7999999999999999
+267,Macrolide lactams,Nitrospirota,0.8999999999999998
+268,Macrolide lactams,Patescibacteria,0.8999999999999998

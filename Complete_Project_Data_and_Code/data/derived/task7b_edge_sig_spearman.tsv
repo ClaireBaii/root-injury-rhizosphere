@@ -1,0 +1,445 @@
+from	to	rho	p
+Unclassified	WPS-2	1	0
+Fatty Acyls	Planctomycetota	-1	0
+Fatty Acyls	Proteobacteria	1	0
+Hydroxy acids and derivatives	Gemmatimonadota	-0.9	0.0373860734684985
+Hydroxy acids and derivatives	Verrucomicrobiota	0.9	0.0373860734684985
+Hydroxy acids and derivatives	WS2	-0.9	0.0373860734684985
+Organic phosphonic acids and derivatives	Armatimonadota	1	0
+Phenols	Armatimonadota	0.9	0.0373860734684985
+Organic sulfuric acids and derivatives	Abditibacteriota	0.9	0.0373860734684985
+Organic sulfuric acids and derivatives	Deinococcota	0.9	0.0373860734684985
+Organic carbonic acids and derivatives	Bacteroidota	-1	0
+Organic carbonic acids and derivatives	Fibrobacterota	1	0
+Organic carbonic acids and derivatives	Hydrogenedentes	-0.974679434480896	0.00481823046819851
+Organic carbonic acids and derivatives	SAR324_clade(Marine_group_B)	0.9	0.0373860734684985
+Dihydrofurans	RCP2-54	0.9	0.0373860734684985
+Organic sulfonic acids and derivatives	Sumerlaeota	-0.9	0.0373860734684985
+Organic sulfonic acids and derivatives	unclassified_Bacteria	-1	0
+Carboxylic acids and derivatives	WPS-2	0.9	0.0373860734684985
+Benzene and substituted derivatives	WPS-2	1	0
+Azoles	Armatimonadota	0.9	0.0373860734684985
+Quinolines and derivatives	Bacteroidota	0.9	0.0373860734684985
+Quinolines and derivatives	Fibrobacterota	-0.9	0.0373860734684985
+Quinolines and derivatives	Hydrogenedentes	0.974679434480896	0.00481823046819851
+Quinolines and derivatives	WPS-2	0.9	0.0373860734684985
+Cinnamic acids and derivatives	Dadabacteria	-0.9	0.0373860734684985
+Cinnamic acids and derivatives	Firmicutes	0.9	0.0373860734684985
+Benzothiazoles	Deinococcota	0.9	0.0373860734684985
+Imidazopyrimidines	Dadabacteria	-0.9	0.0373860734684985
+Imidazopyrimidines	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Tropane alkaloids	Abditibacteriota	-0.9	0.0373860734684985
+Tropane alkaloids	Deinococcota	-0.9	0.0373860734684985
+Other mixed metal/non-metal oxoanionic compounds	Gemmatimonadota	0.9	0.0373860734684985
+Other mixed metal/non-metal oxoanionic compounds	Verrucomicrobiota	-0.9	0.0373860734684985
+Phenol ethers	Firmicutes	-0.9	0.0373860734684985
+Indolizidines	Abditibacteriota	-1	0
+Indolizidines	Acidobacteriota	0.9	0.0373860734684985
+Indolizidines	Actinobacteriota	-0.9	0.0373860734684985
+Indolizidines	Chloroflexi	0.9	0.0373860734684985
+Indolizidines	Entotheonellaeota	0.9	0.0373860734684985
+Indolizidines	Methylomirabilota	0.9	0.0373860734684985
+Indolizidines	NB1-j	0.9	0.0373860734684985
+Indolizidines	RCP2-54	0.9	0.0373860734684985
+Indoles and derivatives	WPS-2	-1	0
+Thiazinanes	Abditibacteriota	1	0
+Thiazinanes	Acidobacteriota	-0.9	0.0373860734684985
+Thiazinanes	Actinobacteriota	0.9	0.0373860734684985
+Thiazinanes	Chloroflexi	-0.9	0.0373860734684985
+Thiazinanes	Entotheonellaeota	-0.9	0.0373860734684985
+Thiazinanes	Methylomirabilota	-0.9	0.0373860734684985
+Thiazinanes	NB1-j	-0.9	0.0373860734684985
+Thiazinanes	RCP2-54	-0.9	0.0373860734684985
+Thiosulfinic acid esters	Bdellovibrionota	0.9	0.0373860734684985
+Thiosulfinic acid esters	GAL15	-0.9	0.0373860734684985
+Thiosulfinic acid esters	Patescibacteria	-0.9	0.0373860734684985
+Isocoumarans	Gemmatimonadota	-0.9	0.0373860734684985
+Isocoumarans	Verrucomicrobiota	0.9	0.0373860734684985
+Isocoumarans	WS2	-0.9	0.0373860734684985
+Phenylpropanoic acids	Acidobacteriota	0.9	0.0373860734684985
+Phenylpropanoic acids	Actinobacteriota	-0.9	0.0373860734684985
+Phenylpropanoic acids	Bdellovibrionota	-1	0
+Phenylpropanoic acids	GAL15	1	0
+Phenylpropanoic acids	Methylomirabilota	0.9	0.0373860734684985
+Phenylpropanoic acids	NB1-j	0.9	0.0373860734684985
+Phenylpropanoic acids	Patescibacteria	1	0
+Furans	Armatimonadota	0.9	0.0373860734684985
+Prenol lipids	Sumerlaeota	-0.9	0.0373860734684985
+Benzopyrans	Armatimonadota	0.9	0.0373860734684985
+Naphthalenes	Dadabacteria	-0.9	0.0373860734684985
+Naphthalenes	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Coumarins and derivatives	Bacteroidota	0.9	0.0373860734684985
+Coumarins and derivatives	Chloroflexi	-0.9	0.0373860734684985
+Coumarins and derivatives	Entotheonellaeota	-0.9	0.0373860734684985
+Coumarins and derivatives	Fibrobacterota	-0.9	0.0373860734684985
+Coumarins and derivatives	SAR324_clade(Marine_group_B)	-1	0
+Naphthofurans	Cyanobacteria	0.9	0.0373860734684985
+Naphthofurans	Dependentiae	-1	0
+Naphthofurans	Desulfobacterota	-0.9	0.0373860734684985
+Naphthofurans	Elusimicrobiota	-0.9	0.0373860734684985
+Naphthofurans	Firmicutes	-0.9	0.0373860734684985
+Naphthofurans	Latescibacterota	-0.9	0.0373860734684985
+Naphthofurans	MBNT15	-0.9	0.0373860734684985
+Isoquinolines and derivatives	Bdellovibrionota	0.9	0.0373860734684985
+Isoquinolines and derivatives	GAL15	-0.9	0.0373860734684985
+Isoquinolines and derivatives	Patescibacteria	-0.9	0.0373860734684985
+Azepines	Dependentiae	0.9	0.0373860734684985
+Azepines	Firmicutes	1	0
+Furopyrans	Deinococcota	0.9	0.0373860734684985
+Furopyrans	Myxococcota	1	0
+Furopyrans	Nitrospirota	-0.9	0.0373860734684985
+Benzofurans	Gemmatimonadota	0.9	0.0373860734684985
+Benzofurans	Verrucomicrobiota	-0.9	0.0373860734684985
+Sulfoxides	Myxococcota	-0.9	0.0373860734684985
+Anthracenes	Dadabacteria	-0.9	0.0373860734684985
+Anthracenes	Firmicutes	0.9	0.0373860734684985
+Pyrimidine nucleosides	Cyanobacteria	-0.9	0.0373860734684985
+Pyrimidine nucleosides	Dadabacteria	-0.9	0.0373860734684985
+Pyrimidine nucleosides	Gemmatimonadota	-1	0
+Pyrimidine nucleosides	Verrucomicrobiota	1	0
+Benzodioxoles	Armatimonadota	0.9	0.0373860734684985
+Diazanaphthalenes	Abditibacteriota	-0.9	0.0373860734684985
+Diazanaphthalenes	Chloroflexi	1	0
+Diazanaphthalenes	Entotheonellaeota	1	0
+Diazanaphthalenes	SAR324_clade(Marine_group_B)	0.9	0.0373860734684985
+Phenanthrenes and derivatives	Armatimonadota	-1	0
+Oxocins	Bacteroidota	-0.9	0.0373860734684985
+Oxocins	Fibrobacterota	0.9	0.0373860734684985
+Oxocins	Hydrogenedentes	-0.974679434480896	0.00481823046819851
+Oxocins	WPS-2	-0.9	0.0373860734684985
+Organonitrogen compounds	Chloroflexi	0.9	0.0373860734684985
+Organonitrogen compounds	Entotheonellaeota	0.9	0.0373860734684985
+Oxepanes	Dependentiae	-0.9	0.0373860734684985
+Oxepanes	Planctomycetota	-0.9	0.0373860734684985
+Oxepanes	Proteobacteria	0.9	0.0373860734684985
+Oxepanes	WS2	0.9	0.0373860734684985
+Naphthopyrans	Bacteroidota	1	0
+Naphthopyrans	Fibrobacterota	-1	0
+Naphthopyrans	Hydrogenedentes	0.974679434480896	0.00481823046819851
+Naphthopyrans	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Bi- and oligothiophenes	WPS-2	-1	0
+Organochlorides	Cyanobacteria	0.9	0.0373860734684985
+Organochlorides	WS2	1	0
+Tetrahydroisoquinolines	Chloroflexi	0.9	0.0373860734684985
+Tetrahydroisoquinolines	Entotheonellaeota	0.9	0.0373860734684985
+Purine nucleosides	Gemmatimonadota	-0.9	0.0373860734684985
+Purine nucleosides	Verrucomicrobiota	0.9	0.0373860734684985
+Dioxanes	Firmicutes	-0.9	0.0373860734684985
+Isoflavonoids	Acidobacteriota	-0.9	0.0373860734684985
+Isoflavonoids	Actinobacteriota	0.9	0.0373860734684985
+Isoflavonoids	Bdellovibrionota	1	0
+Isoflavonoids	GAL15	-1	0
+Isoflavonoids	Methylomirabilota	-0.9	0.0373860734684985
+Isoflavonoids	NB1-j	-0.9	0.0373860734684985
+Isoflavonoids	Patescibacteria	-1	0
+Benzoxazines	Dependentiae	0.9	0.0373860734684985
+Benzoxazines	Planctomycetota	0.9	0.0373860734684985
+Benzoxazines	Proteobacteria	-0.9	0.0373860734684985
+Benzoxazines	WS2	-0.9	0.0373860734684985
+2-arylbenzofuran flavonoids	Bdellovibrionota	0.9	0.0373860734684985
+2-arylbenzofuran flavonoids	GAL15	-0.9	0.0373860734684985
+2-arylbenzofuran flavonoids	Patescibacteria	-0.9	0.0373860734684985
+Flavonoids	Abditibacteriota	0.9	0.0373860734684985
+Flavonoids	Deinococcota	0.9	0.0373860734684985
+Flavonoids	Desulfobacterota	-0.9	0.0373860734684985
+Flavonoids	Elusimicrobiota	-0.9	0.0373860734684985
+Flavonoids	Latescibacterota	-0.9	0.0373860734684985
+Flavonoids	MBNT15	-0.9	0.0373860734684985
+Flavonoids	RCP2-54	-1	0
+Macrolides and analogues	Cyanobacteria	-0.9	0.0373860734684985
+Vinylogous acids	Cyanobacteria	1	0
+Vinylogous acids	Dependentiae	-0.9	0.0373860734684985
+Vinylogous acids	Gemmatimonadota	0.9	0.0373860734684985
+Vinylogous acids	Verrucomicrobiota	-0.9	0.0373860734684985
+Vinylogous acids	WS2	0.9	0.0373860734684985
+Piperidines	Cyanobacteria	-0.9	0.0373860734684985
+Piperidines	Dependentiae	1	0
+Piperidines	Desulfobacterota	0.9	0.0373860734684985
+Piperidines	Elusimicrobiota	0.9	0.0373860734684985
+Piperidines	Firmicutes	0.9	0.0373860734684985
+Piperidines	Latescibacterota	0.9	0.0373860734684985
+Piperidines	MBNT15	0.9	0.0373860734684985
+Stilbenes	WPS-2	1	0
+Linear 1,3-diarylpropanoids	Armatimonadota	0.9	0.0373860734684985
+Amaryllidaceae alkaloids	Acidobacteriota	0.9	0.0373860734684985
+Amaryllidaceae alkaloids	Actinobacteriota	-0.9	0.0373860734684985
+Amaryllidaceae alkaloids	Bdellovibrionota	-1	0
+Amaryllidaceae alkaloids	GAL15	1	0
+Amaryllidaceae alkaloids	Methylomirabilota	0.9	0.0373860734684985
+Amaryllidaceae alkaloids	NB1-j	0.9	0.0373860734684985
+Amaryllidaceae alkaloids	Patescibacteria	1	0
+Benzodiazepines	Deinococcota	1	0
+Benzodiazepines	Myxococcota	0.9	0.0373860734684985
+Benzodiazepines	RCP2-54	-0.9	0.0373860734684985
+Steroids and steroid derivatives	Sumerlaeota	-0.9	0.0373860734684985
+Diarylheptanoids	Dependentiae	0.9	0.0373860734684985
+Diarylheptanoids	Firmicutes	1	0
+Tetralins	RCP2-54	0.9	0.0373860734684985
+Furanoid lignans	Cyanobacteria	0.9	0.0373860734684985
+Furanoid lignans	Dadabacteria	0.9	0.0373860734684985
+Furanoid lignans	Gemmatimonadota	1	0
+Furanoid lignans	Verrucomicrobiota	-1	0
+Acyl halides	Abditibacteriota	0.9	0.0373860734684985
+Acyl halides	Deinococcota	0.9	0.0373860734684985
+Acyl halides	Desulfobacterota	-0.9	0.0373860734684985
+Acyl halides	Elusimicrobiota	-0.9	0.0373860734684985
+Acyl halides	Latescibacterota	-0.9	0.0373860734684985
+Acyl halides	MBNT15	-0.9	0.0373860734684985
+Acyl halides	RCP2-54	-1	0
+Isobenzofurans	Dadabacteria	-0.9	0.0373860734684985
+Isobenzofurans	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Furofurans	Cyanobacteria	-0.9	0.0373860734684985
+Indanes	Bacteroidota	0.9	0.0373860734684985
+Indanes	Chloroflexi	-0.9	0.0373860734684985
+Indanes	Entotheonellaeota	-0.9	0.0373860734684985
+Indanes	Fibrobacterota	-0.9	0.0373860734684985
+Indanes	SAR324_clade(Marine_group_B)	-1	0
+Fluorenes	Abditibacteriota	0.9	0.0373860734684985
+Fluorenes	Deinococcota	0.9	0.0373860734684985
+Angucyclines	Acidobacteriota	-0.9	0.0373860734684985
+Angucyclines	Actinobacteriota	0.9	0.0373860734684985
+Angucyclines	Bdellovibrionota	1	0
+Angucyclines	GAL15	-1	0
+Angucyclines	Methylomirabilota	-0.9	0.0373860734684985
+Angucyclines	NB1-j	-0.9	0.0373860734684985
+Angucyclines	Patescibacteria	-1	0
+Aryltetralin lignans	Dadabacteria	1	0
+Aryltetralin lignans	Gemmatimonadota	0.9	0.0373860734684985
+Aryltetralin lignans	Verrucomicrobiota	-0.9	0.0373860734684985
+Carboximidic acids and derivatives	Myxococcota	-0.9	0.0373860734684985
+Carboximidic acids and derivatives	Sumerlaeota	-0.9	0.0373860734684985
+Carboximidic acids and derivatives	WPS-2	0.9	0.0373860734684985
+Perylenequinones	Planctomycetota	0.9	0.0373860734684985
+Perylenequinones	Proteobacteria	-0.9	0.0373860734684985
+Pyridopyrimidines	Dadabacteria	-0.9	0.0373860734684985
+Pyridopyrimidines	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Benzophenanthridine alkaloids	Myxococcota	-0.9	0.0373860734684985
+Benzophenanthridine alkaloids	Nitrospirota	1	0
+Benzophenanthridine alkaloids	Sumerlaeota	-0.9	0.0373860734684985
+Sphingolipids	Cyanobacteria	1	0
+Sphingolipids	Dependentiae	-0.9	0.0373860734684985
+Sphingolipids	Gemmatimonadota	0.9	0.0373860734684985
+Sphingolipids	Verrucomicrobiota	-0.9	0.0373860734684985
+Sphingolipids	WS2	0.9	0.0373860734684985
+Isoindoles and derivatives	Deinococcota	0.9	0.0373860734684985
+Arylnaphthalene lignans	Chloroflexi	-0.9	0.0373860734684985
+Arylnaphthalene lignans	Entotheonellaeota	-0.9	0.0373860734684985
+Depsides and depsidones	Deinococcota	1	0
+Depsides and depsidones	Myxococcota	0.9	0.0373860734684985
+Depsides and depsidones	RCP2-54	-0.9	0.0373860734684985
+Plumeran-type alkaloids	Gemmatimonadota	0.9	0.0373860734684985
+Plumeran-type alkaloids	Verrucomicrobiota	-0.9	0.0373860734684985
+Plumeran-type alkaloids	WS2	0.9	0.0373860734684985
+Neoflavonoids	Bdellovibrionota	0.9	0.0373860734684985
+Neoflavonoids	GAL15	-0.9	0.0373860734684985
+Neoflavonoids	Patescibacteria	-0.9	0.0373860734684985
+Glycerophospholipids	Abditibacteriota	-1	0
+Glycerophospholipids	Acidobacteriota	0.9	0.0373860734684985
+Glycerophospholipids	Actinobacteriota	-0.9	0.0373860734684985
+Glycerophospholipids	Chloroflexi	0.9	0.0373860734684985
+Glycerophospholipids	Entotheonellaeota	0.9	0.0373860734684985
+Glycerophospholipids	Methylomirabilota	0.9	0.0373860734684985
+Glycerophospholipids	NB1-j	0.9	0.0373860734684985
+Glycerophospholipids	RCP2-54	0.9	0.0373860734684985
+Peptidomimetics	Cyanobacteria	0.9	0.0373860734684985
+Peptidomimetics	Dadabacteria	0.9	0.0373860734684985
+Peptidomimetics	Gemmatimonadota	1	0
+Peptidomimetics	Verrucomicrobiota	-1	0
+Macrolactams	Abditibacteriota	-0.9	0.0373860734684985
+Macrolactams	Acidobacteriota	1	0
+Macrolactams	Actinobacteriota	-1	0
+Macrolactams	Bdellovibrionota	-0.9	0.0373860734684985
+Macrolactams	Desulfobacterota	0.9	0.0373860734684985
+Macrolactams	Elusimicrobiota	0.9	0.0373860734684985
+Macrolactams	GAL15	0.9	0.0373860734684985
+Macrolactams	Latescibacterota	0.9	0.0373860734684985
+Macrolactams	MBNT15	0.9	0.0373860734684985
+Macrolactams	Methylomirabilota	1	0
+Macrolactams	NB1-j	1	0
+Macrolactams	Patescibacteria	0.9	0.0373860734684985
+Strychnos alkaloids	Acidobacteriota	0.9	0.0373860734684985
+Strychnos alkaloids	Actinobacteriota	-0.9	0.0373860734684985
+Strychnos alkaloids	Bacteroidota	-0.9	0.0373860734684985
+Strychnos alkaloids	Fibrobacterota	0.9	0.0373860734684985
+Strychnos alkaloids	Methylomirabilota	0.9	0.0373860734684985
+Strychnos alkaloids	NB1-j	0.9	0.0373860734684985
+Strychnos alkaloids	Planctomycetota	0.9	0.0373860734684985
+Strychnos alkaloids	Proteobacteria	-0.9	0.0373860734684985
+Pyrrolidines	Acidobacteriota	0.9	0.0373860734684985
+Pyrrolidines	Actinobacteriota	-0.9	0.0373860734684985
+Pyrrolidines	Dependentiae	0.9	0.0373860734684985
+Pyrrolidines	Desulfobacterota	1	0
+Pyrrolidines	Elusimicrobiota	1	0
+Pyrrolidines	Latescibacterota	1	0
+Pyrrolidines	MBNT15	1	0
+Pyrrolidines	Methylomirabilota	0.9	0.0373860734684985
+Pyrrolidines	NB1-j	0.9	0.0373860734684985
+Pyrrolidines	RCP2-54	0.9	0.0373860734684985
+Tetrahydrofurans	Bacteroidota	-0.9	0.0373860734684985
+Tetrahydrofurans	Fibrobacterota	0.9	0.0373860734684985
+Tetrahydrofurans	Hydrogenedentes	-0.974679434480896	0.00481823046819851
+Tetrahydrofurans	WPS-2	-0.9	0.0373860734684985
+Unsaturated hydrocarbons	WPS-2	0.9	0.0373860734684985
+Polycyclic hydrocarbons	Planctomycetota	-1	0
+Polycyclic hydrocarbons	Proteobacteria	1	0
+Organic phosphoric acids and derivatives	SAR324_clade(Marine_group_B)	0.9	0.0373860734684985
+Organic phosphoric acids and derivatives	unclassified_Bacteria	0.9	0.0373860734684985
+Acenaphthylenes	Bacteroidota	-0.9	0.0373860734684985
+Acenaphthylenes	Fibrobacterota	0.9	0.0373860734684985
+Acenaphthylenes	Hydrogenedentes	-0.974679434480896	0.00481823046819851
+Acenaphthylenes	WPS-2	-0.9	0.0373860734684985
+Quinolizines	WPS-2	1	0
+Imidazodiazepines	Acidobacteriota	-0.9	0.0373860734684985
+Imidazodiazepines	Actinobacteriota	0.9	0.0373860734684985
+Imidazodiazepines	Bacteroidota	0.9	0.0373860734684985
+Imidazodiazepines	Fibrobacterota	-0.9	0.0373860734684985
+Imidazodiazepines	Methylomirabilota	-0.9	0.0373860734684985
+Imidazodiazepines	NB1-j	-0.9	0.0373860734684985
+Imidazodiazepines	Planctomycetota	-0.9	0.0373860734684985
+Imidazodiazepines	Proteobacteria	0.9	0.0373860734684985
+Allyl-type 1,3-dipolar organic compounds	Dadabacteria	0.9	0.0373860734684985
+Allyl-type 1,3-dipolar organic compounds	SAR324_clade(Marine_group_B)	0.9	0.0373860734684985
+Organic oxides	RCP2-54	0.9	0.0373860734684985
+Pteridines and derivatives	Abditibacteriota	0.9	0.0373860734684985
+Pteridines and derivatives	Deinococcota	0.9	0.0373860734684985
+Pteridines and derivatives	Desulfobacterota	-0.9	0.0373860734684985
+Pteridines and derivatives	Elusimicrobiota	-0.9	0.0373860734684985
+Pteridines and derivatives	Latescibacterota	-0.9	0.0373860734684985
+Pteridines and derivatives	MBNT15	-0.9	0.0373860734684985
+Pteridines and derivatives	RCP2-54	-1	0
+Azepanes	Abditibacteriota	-1	0
+Azepanes	Acidobacteriota	0.9	0.0373860734684985
+Azepanes	Actinobacteriota	-0.9	0.0373860734684985
+Azepanes	Chloroflexi	0.9	0.0373860734684985
+Azepanes	Entotheonellaeota	0.9	0.0373860734684985
+Azepanes	Methylomirabilota	0.9	0.0373860734684985
+Azepanes	NB1-j	0.9	0.0373860734684985
+Azepanes	RCP2-54	0.9	0.0373860734684985
+Harmala alkaloids	Acidobacteriota	-0.9	0.0373860734684985
+Harmala alkaloids	Actinobacteriota	0.9	0.0373860734684985
+Harmala alkaloids	Bacteroidota	0.9	0.0373860734684985
+Harmala alkaloids	Fibrobacterota	-0.9	0.0373860734684985
+Harmala alkaloids	Methylomirabilota	-0.9	0.0373860734684985
+Harmala alkaloids	NB1-j	-0.9	0.0373860734684985
+Harmala alkaloids	Planctomycetota	-0.9	0.0373860734684985
+Harmala alkaloids	Proteobacteria	0.9	0.0373860734684985
+Azaspirodecane derivatives	Armatimonadota	0.9	0.0373860734684985
+Pyrroles	Acidobacteriota	-0.9	0.0373860734684985
+Pyrroles	Actinobacteriota	0.9	0.0373860734684985
+Pyrroles	Bdellovibrionota	1	0
+Pyrroles	GAL15	-1	0
+Pyrroles	Methylomirabilota	-0.9	0.0373860734684985
+Pyrroles	NB1-j	-0.9	0.0373860734684985
+Pyrroles	Patescibacteria	-1	0
+Dihydroisoquinolines	Abditibacteriota	-0.9	0.0373860734684985
+Dihydroisoquinolines	Acidobacteriota	1	0
+Dihydroisoquinolines	Actinobacteriota	-1	0
+Dihydroisoquinolines	Bdellovibrionota	-0.9	0.0373860734684985
+Dihydroisoquinolines	Desulfobacterota	0.9	0.0373860734684985
+Dihydroisoquinolines	Elusimicrobiota	0.9	0.0373860734684985
+Dihydroisoquinolines	GAL15	0.9	0.0373860734684985
+Dihydroisoquinolines	Latescibacterota	0.9	0.0373860734684985
+Dihydroisoquinolines	MBNT15	0.9	0.0373860734684985
+Dihydroisoquinolines	Methylomirabilota	1	0
+Dihydroisoquinolines	NB1-j	1	0
+Dihydroisoquinolines	Patescibacteria	0.9	0.0373860734684985
+Isocoumarins and derivatives	Bacteroidota	0.9	0.0373860734684985
+Isocoumarins and derivatives	Chloroflexi	-0.9	0.0373860734684985
+Isocoumarins and derivatives	Entotheonellaeota	-0.9	0.0373860734684985
+Isocoumarins and derivatives	Fibrobacterota	-0.9	0.0373860734684985
+Isocoumarins and derivatives	SAR324_clade(Marine_group_B)	-1	0
+Benzazepines	Acidobacteriota	-0.9	0.0373860734684985
+Benzazepines	Actinobacteriota	0.9	0.0373860734684985
+Benzazepines	Bacteroidota	0.9	0.0373860734684985
+Benzazepines	Fibrobacterota	-0.9	0.0373860734684985
+Benzazepines	Methylomirabilota	-0.9	0.0373860734684985
+Benzazepines	NB1-j	-0.9	0.0373860734684985
+Benzazepines	Planctomycetota	-0.9	0.0373860734684985
+Benzazepines	Proteobacteria	0.9	0.0373860734684985
+Phenol esters	Armatimonadota	-0.9	0.0373860734684985
+Phenol esters	Bdellovibrionota	-0.9	0.0373860734684985
+Phenol esters	GAL15	0.9	0.0373860734684985
+Phenol esters	Nitrospirota	0.9	0.0373860734684985
+Phenol esters	Patescibacteria	0.9	0.0373860734684985
+Indolonaphthyridine alkaloids	Bacteroidota	0.9	0.0373860734684985
+Indolonaphthyridine alkaloids	Fibrobacterota	-0.9	0.0373860734684985
+Indolonaphthyridine alkaloids	Hydrogenedentes	0.974679434480896	0.00481823046819851
+Indolonaphthyridine alkaloids	WPS-2	0.9	0.0373860734684985
+Trithiolanes	Myxococcota	-0.9	0.0373860734684985
+Ergoline and derivatives	Armatimonadota	0.9	0.0373860734684985
+Lupin alkaloids	WPS-2	0.9	0.0373860734684985
+Azolidines	Abditibacteriota	-0.9	0.0373860734684985
+Azolidines	Deinococcota	-0.9	0.0373860734684985
+Azolidines	Desulfobacterota	0.9	0.0373860734684985
+Azolidines	Elusimicrobiota	0.9	0.0373860734684985
+Azolidines	Latescibacterota	0.9	0.0373860734684985
+Azolidines	MBNT15	0.9	0.0373860734684985
+Azolidines	RCP2-54	1	0
+Saxitoxins, gonyautoxins, and derivatives	Abditibacteriota	-0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	Deinococcota	-0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	Desulfobacterota	0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	Elusimicrobiota	0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	Latescibacterota	0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	MBNT15	0.9	0.0373860734684985
+Saxitoxins, gonyautoxins, and derivatives	RCP2-54	1	0
+Quinolizidines	Gemmatimonadota	-0.9	0.0373860734684985
+Quinolizidines	Verrucomicrobiota	0.9	0.0373860734684985
+5'-deoxyribonucleosides	Gemmatimonadota	-0.9	0.0373860734684985
+5'-deoxyribonucleosides	Verrucomicrobiota	0.9	0.0373860734684985
+Glycerolipids	Bacteroidota	0.9	0.0373860734684985
+Glycerolipids	Fibrobacterota	-0.9	0.0373860734684985
+Glycerolipids	Hydrogenedentes	0.974679434480896	0.00481823046819851
+Glycerolipids	WPS-2	0.9	0.0373860734684985
+Azetidines	Abditibacteriota	-1	0
+Azetidines	Acidobacteriota	0.9	0.0373860734684985
+Azetidines	Actinobacteriota	-0.9	0.0373860734684985
+Azetidines	Chloroflexi	0.9	0.0373860734684985
+Azetidines	Entotheonellaeota	0.9	0.0373860734684985
+Azetidines	Methylomirabilota	0.9	0.0373860734684985
+Azetidines	NB1-j	0.9	0.0373860734684985
+Azetidines	RCP2-54	0.9	0.0373860734684985
+Gelsemium alkaloids	Gemmatimonadota	0.9	0.0373860734684985
+Gelsemium alkaloids	Verrucomicrobiota	-0.9	0.0373860734684985
+Gelsemium alkaloids	WS2	0.9	0.0373860734684985
+Pyrrolines	Chloroflexi	0.9	0.0373860734684985
+Pyrrolines	Entotheonellaeota	0.9	0.0373860734684985
+Daphniphylline-type alkaloids	Abditibacteriota	0.9	0.0373860734684985
+Daphniphylline-type alkaloids	Chloroflexi	-1	0
+Daphniphylline-type alkaloids	Entotheonellaeota	-1	0
+Daphniphylline-type alkaloids	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Aspidospermatan-type alkaloids	Abditibacteriota	0.9	0.0373860734684985
+Aspidospermatan-type alkaloids	Chloroflexi	-1	0
+Aspidospermatan-type alkaloids	Entotheonellaeota	-1	0
+Aspidospermatan-type alkaloids	SAR324_clade(Marine_group_B)	-0.9	0.0373860734684985
+Tropones	Cyanobacteria	-0.9	0.0373860734684985
+Tropones	Dependentiae	1	0
+Tropones	Desulfobacterota	0.9	0.0373860734684985
+Tropones	Elusimicrobiota	0.9	0.0373860734684985
+Tropones	Firmicutes	0.9	0.0373860734684985
+Tropones	Latescibacterota	0.9	0.0373860734684985
+Tropones	MBNT15	0.9	0.0373860734684985
+Aporphines	Acidobacteriota	-0.9	0.0373860734684985
+Aporphines	Actinobacteriota	0.9	0.0373860734684985
+Aporphines	Bacteroidota	0.9	0.0373860734684985
+Aporphines	Fibrobacterota	-0.9	0.0373860734684985
+Aporphines	Methylomirabilota	-0.9	0.0373860734684985
+Aporphines	NB1-j	-0.9	0.0373860734684985
+Aporphines	Planctomycetota	-0.9	0.0373860734684985
+Aporphines	Proteobacteria	0.9	0.0373860734684985
+Dibenzylbutane lignans	Gemmatimonadota	-0.9	0.0373860734684985
+Dibenzylbutane lignans	Verrucomicrobiota	0.9	0.0373860734684985
+Dibenzylbutane lignans	WS2	-0.9	0.0373860734684985
+Aspidofractine alkaloids	Armatimonadota	0.9	0.0373860734684985
+Naphthacenes	Armatimonadota	1	0
+Cycloheptapyrans	Bacteroidota	-1	0
+Cycloheptapyrans	Fibrobacterota	1	0
+Cycloheptapyrans	Hydrogenedentes	-0.974679434480896	0.00481823046819851
+Cycloheptapyrans	SAR324_clade(Marine_group_B)	0.9	0.0373860734684985
+Tannins	RCP2-54	0.9	0.0373860734684985
+Tetrapyrroles and derivatives	Gemmatimonadota	0.9	0.0373860734684985
+Tetrapyrroles and derivatives	Verrucomicrobiota	-0.9	0.0373860734684985
+Macrolide lactams	Armatimonadota	-0.9	0.0373860734684985
+Macrolide lactams	Bdellovibrionota	-0.9	0.0373860734684985
+Macrolide lactams	GAL15	0.9	0.0373860734684985
+Macrolide lactams	Nitrospirota	0.9	0.0373860734684985
+Macrolide lactams	Patescibacteria	0.9	0.0373860734684985
