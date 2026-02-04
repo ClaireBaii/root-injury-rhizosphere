@@ -3,9 +3,11 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Cai"
     given-names: "Jinxiu"
+    orcid: "https://orcid.org/0009-0004-8746-6627"
     affiliation: "Anhui University of Science and Technology"
   - family-names: "Zhu"
     given-names: "Ziyang"
+    orcid: "https://orcid.org/0009-0001-1933-1921"
     affiliation: "Beijing University of Posts and Telecommunications"
 title: "root-injury-rhizosphere: Code for Mechanical root injury triggers threshold-dependent metabolic reprogramming and rhizosphere microbiome assembly"
 version: 1.0.0
